@@ -1,0 +1,5 @@
+iota:
+  protocol: 'https'
+  host: 'nodes.testnet.iota.org'
+  port: 443
+  
